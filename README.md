@@ -1,2 +1,2 @@
-# Hospitality-Domain-insight
-Hospitality Domain insight
+# Hospitality-Domain-insight Power BI
+Hospitality Domain insight Power BI
